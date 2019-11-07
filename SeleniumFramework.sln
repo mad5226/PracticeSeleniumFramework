@@ -1,0 +1,17 @@
+
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SeleniumFramework", "SeleniumFramework\SeleniumFramework.csproj", "{A871B19F-9E87-4005-92A4-F37CE4E283BF}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|anycpu = Debug|anycpu
+		Release|anycpu = Release|anycpu
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A871B19F-9E87-4005-92A4-F37CE4E283BF}.Debug|anycpu.ActiveCfg = Debug|anycpu
+		{A871B19F-9E87-4005-92A4-F37CE4E283BF}.Debug|anycpu.Build.0 = Debug|anycpu
+		{A871B19F-9E87-4005-92A4-F37CE4E283BF}.Release|anycpu.ActiveCfg = Release|anycpu
+		{A871B19F-9E87-4005-92A4-F37CE4E283BF}.Release|anycpu.Build.0 = Release|anycpu
+	EndGlobalSection
+EndGlobal
